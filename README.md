@@ -52,7 +52,7 @@ non-zero — i.e., is P(β_HbA1c < 0 | data) large enough to support clinical ac
 
 ---
 
-### Scientific Question 1 — Backup Dataset (CDC BRFSS 2015)
+### Scientific Question 2 — Backup Dataset (CDC BRFSS 2015)
 
 **Question:** What is the posterior distribution of diabetes risk as a function of BMI
 and age — and does the strength of the BMI effect differ credibly across income and
