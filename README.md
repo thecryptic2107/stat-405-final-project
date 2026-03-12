@@ -1,6 +1,5 @@
 # STAT 405 — Final Project
 ## Bayesian Inference for Diabetes Risk Prediction
-### Hierarchical Modeling | SGD-VI vs. MCMC | Hospital & Population-Level Datasets
 
 ---
 
