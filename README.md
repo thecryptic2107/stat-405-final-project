@@ -22,6 +22,19 @@
 **URL:** https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008  
 **Access:** Direct CSV download, no registration required.
 
+### Backup Dataset — CDC Diabetes Health Indicators (BRFSS 2015)
+
+> **253,680 survey responses × 22 features**
+
+**Source:** CDC Behavioral Risk Factor Surveillance System (BRFSS) 2015, cleaned by Alex Teboul  
+**URL:** https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset 
+
+**Description:**  
+A cleaned subset of the CDC's 2015 BRFSS — the largest continuously conducted health survey
+in the world. Contains 253,680 US adult respondents with 21 lifestyle, demographic, and
+clinical indicator features. Outcome: **binary diabetes diagnosis**. Class distribution:
+86.1% non-diabetic, 13.9% diabetic/prediabetic.
+
 ## 🔬 Scientific Questions & Methodology
 
 ---
