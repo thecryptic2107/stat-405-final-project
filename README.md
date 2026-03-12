@@ -52,7 +52,7 @@ measurement on readmission risk vary across subgroups in a way that is credibly
 non-zero — i.e., is P(β_HbA1c < 0 | data) large enough to support clinical action?
 
 ---
-## Methodology – Primary Dataset (130 US Hospitals)
+## Methodology
 
 We model the probability that a diabetic patient is readmitted within 30 days using Bayesian logistic regression.
 
@@ -92,7 +92,7 @@ We compare the two methods by examining posterior distributions, predictive perf
 and age — and does the strength of the BMI effect differ credibly across income and
 education subgroups?
 
-## Methodology – Backup Dataset (CDC BRFSS 2015)
+## Methodology
 
 For the BRFSS dataset we model the probability of diabetes diagnosis as a function of BMI, age, and other health indicators using Bayesian logistic regression.
 
