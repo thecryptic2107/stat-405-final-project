@@ -8,7 +8,7 @@
 | Name | Student ID | Contributions |
 |---|---|---|
 | Maahi Gumber | 76901438 | TO BE DONE!!!!!! |
-| Rishabh | Rishabh Mathur | 71497275 | TO BE DONE!!!!!!
+| Rishabh Mathur | 71497275 | TO BE DONE!!!!!! |
 | Ayushman | — |  |
 
 
