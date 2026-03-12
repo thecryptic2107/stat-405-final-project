@@ -2,7 +2,8 @@
 ## Bayesian Inference for Diabetes Risk Prediction
 
 ---
-
+Project repository:
+https://github.com/thecryptic2107/stat-405-final-project.git
 ## 👥 Team Members
 
 | Name | Student ID | Contributions |
