@@ -1,4 +1,4 @@
-# STAT 405 — Final Project
+# STAT 405 - Final Project
 ## Bayesian Inference for Diabetes Risk Prediction
 
 ---
@@ -15,7 +15,7 @@ https://github.com/thecryptic2107/stat-405-final-project.git
 
 ## 🗄️ Datasets
 
-### Primary Dataset — Diabetes 130-US Hospitals (1999–2008)
+### Primary Dataset - Diabetes 130-US Hospitals (1999–2008)
 
 > **101,766 patient encounters × 47 features**
 
@@ -23,7 +23,7 @@ https://github.com/thecryptic2107/stat-405-final-project.git
 **URL:** https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008  
 **Access:** Direct CSV download, no registration required.
 
-### Backup Dataset — CDC Diabetes Health Indicators (BRFSS 2015)
+### Backup Dataset - CDC Diabetes Health Indicators (BRFSS 2015)
 
 > **253,680 survey responses × 22 features**
 
