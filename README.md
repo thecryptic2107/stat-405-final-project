@@ -10,7 +10,7 @@ https://github.com/thecryptic2107/stat-405-final-project.git
 |---|---|---|
 | Maahi Gumber | 76901438 | TO BE DONE!!!!!! |
 | Rishabh Mathur | 71497275 | TO BE DONE!!!!!! |
-| Ayushman | — |  |
+| Aayushmaan Deka | 79689360 |  | TO BE DONE!!!!!! |
 
 
 ## 🗄️ Datasets
